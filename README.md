@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tjwelton
 - 👀 I’m interested in analytics, data science and machine learning
-- 🌱 I’m currently learning PHP for server-side programming
+- 🌱 I’m currently learning Bayesian optimisation
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
